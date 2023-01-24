@@ -1,12 +1,1 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+This repository stores the code for our school project in which we utilize a Raspberry Pi connected to a scale. The project allows for the calibration and measurement of objects using the scale, with live results displayed on our dashboard, which is written in ASP.NET Core/BlazorWASM and utilizes the MudBlazor frontend framework. Additionally, we have implemented the capability to save calibrated objects with their initial weight in a SQLite database and to select already calibrated objects from the database, eliminating the need for re-calibration.
